@@ -12,14 +12,15 @@ I am a software engineer with a passion for rock climbing, problem solving, and 
     </tr>
   </thead>
   <tbody>
+	  <tr>
+      <td><a href="https://github.com/Gravender/movie_ranker"><b>Movie Ranker</b></a></td>
+      <td><a href="https://movie-ranker.vercel.app/"><b>Demo</b></a></td>
+      </tr>
     <tr>
       <td><a href="https://github.com/Gravender/AiGames"><b>Maze, Sort, and MinMax ALgorithm Viewer</b></a></td>
       <td><a href="https://gravender.github.io/AiGames/"><b>Demo</b></a></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/Gravender/dnddice"><b>DnD Dice damage calculator</b></a></td>
-      <td><a href="https://gravender.github.io/dnddice/"><b>Demo</b></a></td>
-      </tr>
+	  
   </tbody>
 </table>
 
