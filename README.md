@@ -17,7 +17,7 @@ I am a software engineer with a passion for rock climbing, problem solving, and 
       <td><a href="https://movie-ranker.vercel.app/"><b>Demo</b></a></td>
       </tr>
     <tr>
-      <td><a href="https://github.com/Gravender/AiGames"><b>Maze, Sort, and MinMax ALgorithm Viewer</b></a></td>
+      <td><a href="https://github.com/Gravender/AiGames"><b>Maze, Sort, and MinMax Algorithm Viewer</b></a></td>
       <td><a href="https://gravender.github.io/AiGames/"><b>Demo</b></a></td>
     </tr>
 	  
