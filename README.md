@@ -1,6 +1,6 @@
 ## Hello
 
-I am a software engineer with a passion for rock climbing, problem solving, and the great outdoors. My technical skills and love for collaboration enable me to tackle complex challenges. In my free time, I enjoy climbing and exploring the outdoors. I am always seeking new opportunities to learn and grow as a software engineer. Feel free to reach out if you think I could be a good fit for your project or team."
+I am a software engineer passionate about rock climbing, problem-solving, and the outdoors. My technical skills and love for collaboration enable me to tackle complex challenges. In my free time, I enjoy climbing and exploring the outdoors. I always seek new opportunities to learn and grow as a software engineer. Please reach out if you think I could be a good fit for your project or team.
 
 ## Projects
 
@@ -11,15 +11,19 @@ I am a software engineer with a passion for rock climbing, problem solving, and 
       <td><b> Live Demo</b></td>
     </tr>
   </thead>
-  <tbody>
-	  <tr>
-      <td><a href="https://github.com/Gravender/movie_ranker"><b>Movie Ranker</b></a></td>
-      <td><a href="https://movie-ranker.vercel.app/"><b>Demo</b></a></td>
-      </tr>
-    <tr>
-      <td><a href="https://github.com/Gravender/AiGames"><b>Maze, Sort, and MinMax Algorithm Viewer</b></a></td>
-      <td><a href="https://gravender.github.io/AiGames/"><b>Demo</b></a></td>
-    </tr>
+  <body>
+	<tr>
+	<td><a href="https://github.com/Gravender/boardgames"><b>Board Game collection tracker and stats tracker</b></a></td>
+	<td><a href="https://boardgame.gravender.net/dashboard/games"><b>Demo</b></a></td>
+	</tr>
+	<tr>
+	<td><a href="https://github.com/Gravender/movie_ranker"><b>Movie Ranker</b></a></td>
+	<td><a href="https://movie-ranker.vercel.app/"><b>Demo</b></a></td>
+	</tr>
+	<tr>
+	<td><a href="https://github.com/Gravender/AiGames"><b>Maze, Sort, and MinMax Algorithm Viewer</b></a></td>
+	<td><a href="https://gravender.github.io/AiGames/"><b>Demo</b></a></td>
+	</tr>
 	  
   </tbody>
 </table>
